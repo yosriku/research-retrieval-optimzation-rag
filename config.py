@@ -17,7 +17,6 @@ PAGE_CONFIG = {
 
 # --- PERUBAHAN 1: HARDCODE API KEY DI SINI ---
 # Masukkan API Key Gemini Anda di dalam tanda kutip
-GEMINI_API_KEY = "AIzaSyCUJykB6cimxAC6RlTq1GC7JnPl0wX3_hE"
 
 EMBEDDING_MODELS = {
     "Indobert Base (Trash Small)": (
@@ -64,4 +63,5 @@ UI_TEXT = {
     "db_status_header": "3. Database Status",
     "query_placeholder": "e.g., Apa topik utama yang dibahas dalam dokumen?",
     "retrieval_only_note": "📋 Retrieval Only mode - No answer generation"
+
 }
